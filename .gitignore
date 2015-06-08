@@ -1,0 +1,8 @@
+#Directories to ignore
+virtualenv/
+.idea/
+
+#Ignore file extensions
+*.pyc
+.DS_Store
+.log
